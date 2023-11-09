@@ -1,3 +1,7 @@
+## Susan Winters - Bank
+
+
+
 ## Exercise 1:
 
 Create a new public class named BankAccount
